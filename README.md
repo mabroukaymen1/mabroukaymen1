@@ -2,130 +2,130 @@
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════════════════════╗
-║    ⚡ CYBERPUNK NEURAL NETWORK INITIALIZED ⚡ [MATRIX: ONLINE] 🔴🟢🔵         ║
-║         [QUANTUM CORE: 🔥 OVERCLOCKED] [NEON DRIVE: ⚡ MAXED OUT]            ║
-║            [GLITCH MODE: 👾 ACTIVATED] [CYBER STATUS: 🌈 LIVE]               ║
+║    🕹️ ARCADE GAME INITIALIZED 🕹️ [CONSOLE: ACTIVE] 🔴🟡🟢🔵                ║
+║         [PIXEL CORE: 🎮 OVERLOADED] [RETRO DRIVE: 🌟 MAXED OUT]            ║
+║            [8-BIT MODE: 👾 ACTIVATED] [GAME STATUS: 🎪 LIVE]                ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=1500&pause=500&color=00FF41&center=true&vCenter=true&width=1000&height=80&lines=root@cyber-matrix:~$+whoami;🔴+ACCESSING...+NEURAL+LINK+ESTABLISHED;👾+I'm+AYMEN+MABROUK+-+CYBER+ARCHITECT;⚡+QUANTUM+SAMURAI+LOADING...;[████████████████████]+HACK+COMPLETE+💀" alt="Cyberpunk Terminal Hack Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=25&duration=1200&pause=600&color=FFD700&center=true&vCenter=true&width=1000&height=80&lines=PLAYER+1:+AYMEN+MABROUK;🎮+LOADING...+GAME+MASTER+ACTIVATED;👾+ARCADE+DEVELOPER+-+HIGH+SCORE!;⚡+8-BIT+SAMURAI+LOADING...;[████████████████████]+GAME+COMPLETE+🏆" alt="Arcade Terminal Loading Animation" />
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════════════════════╗
-║ 🔴 STATUS: ONLINE │ 📍 GPS: 🇹🇳 MONASTIR │ 🌈 MODE: ⚡ CYBERPUNK OVERDRIVE ║
+║ 🔴 STATUS: ONLINE │ 📍 GPS: 🇹🇳 MONASTIR │ 🎪 MODE: ⚡ ARCADE OVERDRIVE  ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-<!-- Cyberpunk Glitch Header -->
+<!-- Arcade Retro Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10&height=350&section=header&text=AYMEN%20MABROUK&fontSize=60&fontColor=00FF41&animation=fadeIn&fontAlignY=32&desc=👾+CYBER+ARCHITECT+%7C+IOT+HACKER+%7C+QUANTUM+CODE+NINJA+👾&descAlignY=55&descSize=22" alt="Cyberpunk Glitch Header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24,25,30&height=350&section=header&text=AYMEN%20MABROUK&fontSize=50&fontColor=FFD700&animation=fadeIn&fontAlignY=32&desc=🎮+ARCADE+GAME+DEV+%7C+8-BIT+MASTER+%7C+PIXEL+CODE+WIZARD+👾&descAlignY=55&descSize=20" alt="Arcade Retro Header" width="100%">
 </div>
 
-<!-- Neon Matrix Profile Animation -->
+<!-- Neon Arcade Profile Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2000&pause=400&color=FF0080&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=160&lines=👾+EMBEDDED+SYSTEMS+%26+IOT+CYBER+HACKER;📱+FLUTTER+%7C+MOBILE+REALITY+MANIPULATOR;🤖+AI+AUTOMATION+%7C+NEURAL+INTEGRATION;🌈+HARDWARE-SOFTWARE+QUANTUM+FUSION;⚡+REAL-TIME+SYSTEMS+ARCHITECT;🔧+CYBERPUNK+TECHNOLOGY+OVERLORD" alt="Cyberpunk Role Matrix" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=20&duration=2200&pause=500&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=160&lines=🎮+EMBEDDED+%26+IOT+ARCADE+HACKER;📱+FLUTTER+%7C+MOBILE+GAME+DEVELOPER;🤖+AI+AUTOMATION+%7C+8-BIT+INTEGRATION;🌟+HARDWARE-SOFTWARE+PIXEL+FUSION;⚡+REAL-TIME+ARCADE+ARCHITECT;🔧+RETRO+GAMING+OVERLORD" alt="Arcade Role Matrix" />
 </div>
 
-<!-- Cyberpunk Hacking Animation -->
+<!-- Arcade Gaming Animation -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="650">
 </div>
 
 ---
 
-## 👾 **CYBER DNA ANALYSIS & NEURAL MAPPING**
+## 🎮 **PLAYER STATS & ARCADE DNA**
 
-<img align="right" alt="Cyberpunk Quantum Lab" width="450" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<img align="right" alt="Arcade Pixel Lab" width="450" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ```javascript
-const cyberQuantumProfile = {
-  identity: "AYMEN MABROUK",
-  classification: "👾 CYBERPUNK QUANTUM ARCHITECT",
-  coordinates: "🇹🇳 MONASTIR CYBER DISTRICT",
-  mission: "🌈 BRIDGING NEON REALITY & DIGITAL MATRIX",
-  aesthetic: "👾 FULL CYBERPUNK OVERDRIVE",
+const arcadePlayerProfile = {
+  player_name: "AYMEN MABROUK",
+  class: "🎮 ARCADE PIXEL ARCHITECT",
+  spawn_point: "🇹🇳 MONASTIR GAMING DISTRICT",
+  mission: "🌟 BRIDGING RETRO VIBES & DIGITAL REALITY",
+  aesthetic: "🎪 FULL ARCADE OVERDRIVE",
   
-  // 🔴 Live Quantum Status
-  neural_state: {
-    connection: "🔴 QUANTUM LINK ACTIVE",
-    focus_target: "🤖 AI-POWERED CYBER IOT MATRIX",
-    energy_core: "⚡ MAXIMUM OVERCLOCK",
-    fuel_status: "☕ CYBERPUNK STIMULANT ACTIVE",
-    vibe_check: "👾 PURE NEON CHAOS"
+  // 🔴 Live Game Status
+  game_state: {
+    connection: "🔴 ARCADE LINK ACTIVE",
+    current_level: "🤖 AI-POWERED RETRO IOT WORLD",
+    power_level: "⚡ MAXIMUM BOOST",
+    health_status: "☕ ENERGY DRINK POWERED",
+    mood_check: "🎮 PURE RETRO JOY"
   },
   
-  // 🌈 Cyberpunk Arsenal Matrix
-  cyber_weapons: {
-    mobile_hack: ["Flutter 💜", "Dart 🔵", "Firebase 🟡"],
-    iot_exploit: ["Embedded Sys 👾", "TCP/IP 💙", "Auto-Hack ⚡"],
-    backend_breach: ["Node.js 🟢", "MongoDB 💚", "API Injection 🔥"],
-    hardware_mod: ["Arduino 🔵", "RPi 💜", "Quantum Sensors 🌈"]
+  // 🌟 Arcade Toolkit Matrix
+  power_ups: {
+    mobile_magic: ["Flutter 💜", "Dart 🔵", "Firebase 🟡"],
+    iot_arsenal: ["Embedded Sys 👾", "TCP/IP 💙", "Auto-Magic ⚡"],
+    backend_boost: ["Node.js 🟢", "MongoDB 💚", "API Power 🔥"],
+    hardware_hacks: ["Arduino 🔵", "RPi 💜", "Pixel Sensors 🌟"]
   },
   
-  // 👾 Active Cyber Operations
-  running_exploits: [
-    "🤖 TEEMO SMART CYBER AUTOMATION",
-    "🚢 QUANTUM PORT HACK SYSTEM", 
-    "🍼 AI-POWERED CYBERPUNK CARE MATRIX",
-    "📞 NEURAL CALL CENTER INFILTRATION"
+  // 🎮 Active Game Missions
+  running_games: [
+    "🤖 TEEMO SMART ARCADE AUTOMATION",
+    "🚢 PIXEL PORT MANAGEMENT SYSTEM", 
+    "🍼 AI-POWERED RETRO CARE MATRIX",
+    "📞 8-BIT CALL CENTER ADVENTURE"
   ]
 };
 
-console.log("👾 CYBERPUNK QUANTUM SYSTEM BREACH SUCCESSFUL!");
+console.log("🎮 ARCADE GAME SYSTEM LOADED SUCCESSFULLY!");
 ```
 
-### 👾 **LIVE CYBERPUNK PERFORMANCE MATRIX**
+### 🎮 **LIVE ARCADE PERFORMANCE DASHBOARD**
 
 ```yaml
-# 🔥 Real-Time Cyber Operation Dashboard
-cyberpunk_neural_stats:
-  🤖 IoT Hacking:         ████████████████████░ 95% 👾 GLITCHING
-  📱 Flutter Mastery:     ████████████████████  100% 💜 OVERCLOCKED
-  🔧 System Architecture: ██████████████████░░ 90% ⚡ QUANTUM CHARGED
-  🚢 Enterprise Breach:   ████████████████░░░░ 80% 🔵 INFILTRATING
-  🧠 AI/ML Neural Link:   ████████░░░░░░░░░░░░ 40% 🟡 LEARNING MATRIX
-  🌐 Edge Hacking:        ██████░░░░░░░░░░░░░░ 30% 🌈 EXPLORING VOID
+# 🔥 Real-Time Game Operation Stats
+arcade_player_stats:
+  🤖 IoT Gaming:          ████████████████████░ 95% 🎮 HIGH SCORE
+  📱 Flutter Mastery:     ████████████████████  100% 💜 PERFECT
+  🔧 System Architecture: ██████████████████░░ 90% ⚡ BOOSTED
+  🚢 Enterprise Gaming:   ████████████████░░░░ 80% 🔵 LEVELING UP
+  🧠 AI/ML Pixel Power:   ████████░░░░░░░░░░░░ 40% 🟡 LEARNING
+  🌐 Edge Computing:      ██████░░░░░░░░░░░░░░ 30% 🌟 EXPLORING
 
-# ⚡ Current Cyberpunk System Load
-quantum_sessions:
-  hack_hours_today: 14
-  bugs_terminated: 69
-  exploits_deployed: 13
-  cyber_caffeine: "∞ OVERDOSE"
-  neon_inspiration: "MAXIMUM CHAOS ENERGY"
+# ⚡ Current Arcade System Load
+pixel_sessions:
+  gaming_hours_today: 14
+  bugs_defeated: 69
+  levels_completed: 13
+  arcade_tokens: "∞ UNLIMITED"
+  retro_inspiration: "MAXIMUM PIXEL ENERGY"
 ```
 
 ---
 
-## 👾 **CYBERPUNK QUANTUM ARSENAL**
+## 🎮 **ARCADE POWER-UP COLLECTION**
 
 <div align="center">
 
-### 🔥 **NEURAL HACK TOOLS COLLECTION**
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,mongodb,python,cpp,java,arduino,linux,git,vscode,figma&theme=dark&perline=7" alt="Cyberpunk Arsenal Matrix" />
+### 🔥 **RETRO GAMING ARSENAL**
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,mongodb,python,cpp,java,arduino,linux,git,vscode,figma&theme=dark&perline=7" alt="Arcade Arsenal Matrix" />
 
-### ⚡ **QUANTUM POWER LEVEL ANALYSIS**
+### ⚡ **PIXEL POWER LEVEL ANALYSIS**
 ```javascript
-const cyberTechMatrix = {
-  // 📱 Mobile Reality Hack Division
-  💜 flutter: { power: 95, status: "👾 QUANTUM OVERLORD", trend: "🚀 ASCENDING" },
-  🔵 dart: { power: 95, status: "⚡ CYBER DEITY", trend: "💜 BLAZING" },
-  🟡 firebase: { power: 92, status: "🔥 NEURAL MASTER", trend: "🌈 ACTIVE" },
+const arcadeTechMatrix = {
+  // 📱 Mobile Gaming Division
+  💜 flutter: { power: 95, status: "🎮 ARCADE CHAMPION", trend: "🚀 RISING" },
+  🔵 dart: { power: 95, status: "⚡ PIXEL MASTER", trend: "💜 BLAZING" },
+  🟡 firebase: { power: 92, status: "🔥 8-BIT WIZARD", trend: "🌟 ACTIVE" },
   
-  // 🤖 IoT Cyberpunk Empire  
-  👾 iot: { power: 88, status: "🌈 QUANTUM SPECIALIST", trend: "⬆️ HACKING" },
-  ⚡ embedded: { power: 82, status: "🌟 CYBER NINJA", trend: "💙 EVOLVING" },
-  🌐 automation: { power: 85, status: "🚀 NEURAL ARCHITECT", trend: "🔥 OVERCLOCKING" },
+  // 🤖 IoT Arcade Empire  
+  👾 iot: { power: 88, status: "🌟 RETRO SPECIALIST", trend: "⬆️ CLIMBING" },
+  ⚡ embedded: { power: 82, status: "🎪 PIXEL NINJA", trend: "💙 EVOLVING" },
+  🌐 automation: { power: 85, status: "🚀 8-BIT ARCHITECT", trend: "🔥 HEATING UP" },
   
-  // 💚 Backend Cyber Fortress
-  🟢 nodejs: { power: 78, status: "💻 QUANTUM HACKER", trend: "👾 STABLE" },
-  💚 mongodb: { power: 75, status: "📚 DATA MANIPULATOR", trend: "💜 UPGRADING" },
+  // 💚 Backend Arcade Fortress
+  🟢 nodejs: { power: 78, status: "💻 RETRO HACKER", trend: "🎮 STABLE" },
+  💚 mongodb: { power: 75, status: "📚 DATA WIZARD", trend: "💜 UPGRADING" },
   
-  // 🌈 Future Quantum Arsenal
-  🧠 ai_ml: { power: 40, status: "🌱 NEURAL LEARNING", trend: "🚀 EXPONENTIAL" },
-  ☁️ cloud: { power: 35, status: "🌥️ MATRIX EXPLORING", trend: "⚡ QUANTUM LEAP" }
+  // 🌟 Future Arcade Arsenal
+  🧠 ai_ml: { power: 40, status: "🌱 PIXEL LEARNING", trend: "🚀 EXPONENTIAL" },
+  ☁️ cloud: { power: 35, status: "🌥️ ARCADE EXPLORING", trend: "⚡ POWER UP" }
 };
 ```
 
@@ -133,127 +133,127 @@ const cyberTechMatrix = {
 
 ---
 
-## 📊 **CYBERPUNK NEURAL ACTIVITY MONITOR**
+## 📊 **ARCADE GAMING ACTIVITY MONITOR**
 
 <div align="center">
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════════════════════╗
-║  📡 CYBER SIGNAL BROADCASTING | 🔄 QUANTUM REFRESH | STATUS: 👾 OVERCLOCKED ║
+║  📡 ARCADE SIGNAL | 🔄 PIXEL REFRESH | STATUS: 🎮 HIGH SCORE ACHIEVED       ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <table>
 <tr>
 <td width="50%">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=mabroukaymen1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&custom_title=⚡%20Cyberpunk%20Neural%20Performance&title_color=FF0080&text_color=00FF41&icon_color=FF6B35&bg_color=0D1117&ring_color=FF0080"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=mabroukaymen1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&custom_title=⚡%20Arcade%20Gaming%20Performance&title_color=FFD700&text_color=FF6B35&icon_color=00FFFF&bg_color=1a1b27&ring_color=FFD700"/>
 </td>
 <td width="50%">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabroukaymen1&layout=compact&langs_count=8&theme=radical&hide_border=true&custom_title=👾%20Quantum%20Code%20DNA&title_color=FF0080&text_color=00FF41&bg_color=0D1117"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabroukaymen1&layout=compact&langs_count=8&theme=dracula&hide_border=true&custom_title=🎮%20Pixel%20Code%20DNA&title_color=FFD700&text_color=FF6B35&bg_color=1a1b27"/>
 </td>
 </tr>
 </table>
 
-### 📈 **QUANTUM NEURAL NETWORK ACTIVITY GRAPH**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mabroukaymen1&theme=high-contrast&bg_color=0D1117&color=00FF41&line=FF0080&point=FF6B35&area=true&hide_border=true&custom_title=👾%20Cyberpunk%20Quantum%20Neural%20Hacking%20Pattern" alt="Cyberpunk Neural Activity" />
+### 📈 **RETRO GAMING ACTIVITY GRAPH**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mabroukaymen1&theme=tokyo-night&bg_color=1a1b27&color=FF6B35&line=FFD700&point=00FFFF&area=true&hide_border=true&custom_title=🎮%20Arcade%20Pixel%20Gaming%20Pattern" alt="Arcade Gaming Activity" />
 
 </div>
 
 ---
 
-## 🏆 **CYBERPUNK ACHIEVEMENT VAULT**
+## 🏆 **ARCADE ACHIEVEMENT HALL OF FAME**
 
 <div align="center">
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════════════════════╗
-║  🎮 QUANTUM ACHIEVEMENT HUB | 🏆 RANK: CYBER GOD | XP: ∞ OVERDRIVE          ║
+║  🎮 ACHIEVEMENT CENTER | 🏆 RANK: ARCADE LEGEND | XP: ∞ UNLIMITED          ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://github-profile-trophy.vercel.app/?username=mabroukaymen1&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A&title=Stars,Followers,Commits,Repositories,PullRequests,Issues,MultiLanguage" alt="Cyberpunk Trophy Vault" />
+<img src="https://github-profile-trophy.vercel.app/?username=mabroukaymen1&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A&title=Stars,Followers,Commits,Repositories,PullRequests,Issues,MultiLanguage" alt="Arcade Trophy Collection" />
 
-### 🎯 **QUANTUM MISSION STATUS BOARD**
+### 🎯 **GAME MISSION STATUS BOARD**
 ```yaml
-🏅 completed_cyber_exploits:
-  ✅ "Flutter Cyberpunk Overlord"
-  ✅ "IoT Quantum Hacker Specialist" 
-  ✅ "Real-time Neural Systems God"
-  ✅ "Enterprise Cyber Solutions Architect"
-  ✅ "Smart Automation Quantum Pioneer"
+🏅 completed_arcade_levels:
+  ✅ "Flutter Arcade Champion"
+  ✅ "IoT Retro Gaming Specialist" 
+  ✅ "Real-time 8-Bit Systems Master"
+  ✅ "Enterprise Arcade Solutions Architect"
+  ✅ "Smart Automation Pixel Pioneer"
 
-🎯 active_neural_missions:
-  🔄 "AI/ML Cyberpunk Integration"
-  🔄 "Edge Computing Quantum Specialist" 
-  🔄 "Cloud Architecture Cyber Expert"
-  🔄 "Quantum Computing Neural Explorer"
+🎯 active_gaming_missions:
+  🔄 "AI/ML Retro Integration"
+  🔄 "Edge Computing Pixel Specialist" 
+  🔄 "Cloud Architecture Arcade Expert"
+  🔄 "Quantum Computing 8-Bit Explorer"
 
-⚡ quantum_power_level: "OVER 9000 CYBER VOLTS!"
-🌈 neural_reputation: "LEGENDARY QUANTUM SAMURAI"
+⚡ arcade_power_level: "OVER 9000 PIXELS!"
+🌟 gaming_reputation: "LEGENDARY ARCADE SAMURAI"
 ```
 
 </div>
 
 ---
 
-## 👾 **MISSION CONTROL: ACTIVE CYBERPUNK OPERATIONS**
+## 🎮 **MISSION CONTROL: ACTIVE ARCADE OPERATIONS**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="550">
 </div>
 
-### 🎮 **QUANTUM PROJECT STATUS CONSOLE**
+### 🎪 **PIXEL PROJECT STATUS CONSOLE**
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🤖 **TEEMO SMART CYBER AUTOMATION & BEEMO QUANTUM ROBOT**
+#### 🤖 **TEEMO SMART ARCADE AUTOMATION & BEEMO PIXEL ROBOT**
 ```yaml
-🎯 Mission Status: 👾 QUANTUM ACTIVE DEVELOPMENT
+🎯 Mission Status: 🎮 ARCADE ACTIVE DEVELOPMENT
 📊 Progress: ████████████████░░░░ 80%
-⚡ Last Update: Real-time Cyber Matrix Sync
-🔥 Intensity: MAXIMUM QUANTUM OVERDRIVE
+⚡ Last Update: Real-time Pixel Matrix Sync
+🔥 Intensity: MAXIMUM ARCADE OVERDRIVE
 
-🛠️ Cyberpunk Arsenal:
-- Flutter (Advanced Quantum UI/UX)
-- Firebase (Real-time Cyber Matrix)
-- TCP/IP (Robot Neural Communication)
-- IoT Sensors (Cyberpunk Environmental Hack)
+🛠️ Retro Gaming Arsenal:
+- Flutter (Advanced Pixel UI/UX)
+- Firebase (Real-time Arcade Matrix)
+- TCP/IP (Robot 8-Bit Communication)
+- IoT Sensors (Retro Environmental Control)
 
-🌈 Quantum Features Unlocked:
-✅ Advanced Cyber Robot Neural Control
-✅ Smart Cyberpunk Home Integration
-✅ QR Code Quantum Pairing Protocol
-✅ Voice Command Neural Interface
-🔄 AI Quantum Learning Algorithm (Hacking...)
+🌟 Pixel Features Unlocked:
+✅ Advanced Arcade Robot Control
+✅ Smart Retro Home Integration
+✅ QR Code Pixel Pairing Protocol
+✅ Voice Command 8-Bit Interface
+🔄 AI Pixel Learning Algorithm (Loading...)
 
-🚀 Next Milestone: "Neural AI Cyberpunk Integration"
+🚀 Next Level: "8-Bit AI Arcade Integration"
 ```
 
 </td>
 <td width="50%">
 
-#### 🚢 **CYBERPUNK PORT SERVICE MATRIX**
+#### 🚢 **ARCADE PORT SERVICE MATRIX**
 ```yaml
-🎯 Mission Status: 👾 QUANTUM PRODUCTION LIVE
+🎯 Mission Status: 🎮 PIXEL PRODUCTION LIVE
 📈 Uptime: ████████████████████ 99.9%
-👥 Active Cyber Warriors: 500+ Daily
-⚡ Performance: CYBERPUNK OPTIMIZED
+👥 Active Gamers: 500+ Daily
+⚡ Performance: ARCADE OPTIMIZED
 
-🛠️ Quantum Arsenal:
-- Flutter (Cross-platform Cyber Power)
-- Firebase (Cloud Quantum Infrastructure)
-- REST API (Neural Data Pipeline)
-- Real-time Cyberpunk Analytics
+🛠️ Pixel Arsenal:
+- Flutter (Cross-platform Arcade Power)
+- Firebase (Cloud Pixel Infrastructure)
+- REST API (8-Bit Data Pipeline)
+- Real-time Retro Analytics
 
-🌈 Quantum Achievement Unlocked:
-✅ Real-time Cyber Equipment Tracking
-✅ Lightning-fast Quantum Notifications
-✅ Dynamic Cyberpunk Analytics Dashboard
-✅ Automated Neural Workflow
+🌟 Pixel Achievement Unlocked:
+✅ Real-time Arcade Equipment Tracking
+✅ Lightning-fast Pixel Notifications
+✅ Dynamic Retro Analytics Dashboard
+✅ Automated 8-Bit Workflow
 
-🏆 Impact Score: +50% Cyberpunk Efficiency
+🏆 Impact Score: +50% Arcade Efficiency
 ```
 
 </td>
@@ -261,51 +261,51 @@ const cyberTechMatrix = {
 <tr>
 <td width="50%">
 
-#### 🍼 **AI-POWERED CYBERPUNK MEDICAL CARE MATRIX**
+#### 🍼 **AI-POWERED ARCADE MEDICAL CARE MATRIX**
 ```yaml
-🎯 Mission Status: 👾 QUANTUM SCALING UP
+🎯 Mission Status: 🎮 PIXEL SCALING UP
 📱 Downloads: ████████████░░░░░░░░ 65%
-⭐ Rating: 4.8/5.0 (1,200+ Cyber Reviews)
-🚀 Growth: +25% Monthly Quantum Users
+⭐ Rating: 4.8/5.0 (1,200+ Arcade Reviews)
+🚀 Growth: +25% Monthly Pixel Users
 
-🛠️ Cyberpunk Arsenal:
-- Flutter (Smooth Quantum UX)
-- Firebase (Secure Neural Data)
-- HealthKit Cyberpunk Integration
-- AI Neural Prediction Engine
+🛠️ Retro Gaming Arsenal:
+- Flutter (Smooth Pixel UX)
+- Firebase (Secure 8-Bit Data)
+- HealthKit Arcade Integration
+- AI Pixel Prediction Engine
 
-🌈 Quantum Lives Improved:
-✅ Smart Cyber Health Scheduling
-✅ Intelligent Neural Care Reminders
-✅ Predictive Cyberpunk Health Analytics
-✅ Doctor-Patient Quantum Bridge
+🌟 Pixel Lives Improved:
+✅ Smart Arcade Health Scheduling
+✅ Intelligent 8-Bit Care Reminders
+✅ Predictive Retro Health Analytics
+✅ Doctor-Patient Pixel Bridge
 
-💡 Innovation Factor: CYBERPUNK BREAKTHROUGH
+💡 Innovation Factor: ARCADE BREAKTHROUGH
 ```
 
 </td>
 <td width="50%">
 
-#### 📞 **INTELLIGENT CYBERPUNK CALL CENTER**
+#### 📞 **INTELLIGENT ARCADE CALL CENTER**
 ```yaml
-🎯 Mission Status: ✅ QUANTUM SUCCESSFULLY DEPLOYED
+🎯 Mission Status: ✅ PIXEL SUCCESSFULLY DEPLOYED
 🎖️ Performance: ████████████████████ 100%
-📈 Customer Satisfaction: +40% Cyberpunk Style
-🏆 Achievement: "Best Quantum UX Experience"
+📈 Customer Satisfaction: +40% Arcade Style
+🏆 Achievement: "Best Pixel UX Experience"
 
-🛠️ Neural Arsenal:
-- Flutter (Intuitive Cyberpunk Interface)
-- MongoDB (Data Neural Intelligence)
-- WebRTC (Crystal Clear Quantum Calls)
-- ML Algorithm (Smart Cyber Matching)
+🛠️ 8-Bit Arsenal:
+- Flutter (Intuitive Arcade Interface)
+- MongoDB (Data Pixel Intelligence)
+- WebRTC (Crystal Clear 8-Bit Calls)
+- ML Algorithm (Smart Arcade Matching)
 
-🌈 Revolutionary Quantum Features:
-✅ AI-Powered Neural Agent Matching
-✅ Customer Cyberpunk Preference Learning
-✅ Seamless Multi-channel Quantum Support
-✅ Real-time Neural Analytics
+🌟 Revolutionary Pixel Features:
+✅ AI-Powered 8-Bit Agent Matching
+✅ Customer Arcade Preference Learning
+✅ Seamless Multi-channel Pixel Support
+✅ Real-time Retro Analytics
 
-🎯 Mission Complete: CYBERPUNK LEGENDARY SUCCESS
+🎯 Mission Complete: ARCADE LEGENDARY SUCCESS
 ```
 
 </td>
@@ -314,33 +314,33 @@ const cyberTechMatrix = {
 
 ---
 
-## 🌐 **CYBERPUNK COMMUNICATION PROTOCOLS**
+## 🌐 **ARCADE COMMUNICATION PROTOCOLS**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="450">
 
-### 🔗 **QUANTUM CONNECTION ESTABLISHED**
+### 🔗 **PIXEL CONNECTION ESTABLISHED**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=00FF41&color=FF0080)](https://www.linkedin.com/in/aymen-mabrouk-1a06061ab/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=black&labelColor=00FF41&color=FF6B35)](mailto:aymenmabrouk803@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=black&labelColor=00FF41&color=FF0080)](https://github.com/mabroukaymen1)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black&labelColor=00FF41&color=00FF41)](tel:+21694231159)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=FFD700&color=FF6B35)](https://www.linkedin.com/in/aymen-mabrouk-1a06061ab/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=black&labelColor=FFD700&color=00FFFF)](mailto:aymenmabrouk803@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=black&labelColor=FFD700&color=FF6B35)](https://github.com/mabroukaymen1)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black&labelColor=FFD700&color=00FF00)](tel:+21694231159)
 
-### 📡 **CYBERPUNK CONNECTION STATUS**
+### 📡 **ARCADE CONNECTION STATUS**
 ```javascript
-const cyberConnectionMatrix = {
-  👾 availability: "QUANTUM ONLINE & OVERCLOCKED",
-  ⚡ response_time: "< 1 hour (Cyber Speed)",
-  🌍 timezone: "GMT+1 (Tunisia Cyber District)",
+const arcadeConnectionMatrix = {
+  🎮 availability: "PIXEL ONLINE & BOOSTED",
+  ⚡ response_time: "< 1 hour (Arcade Speed)",
+  🌍 timezone: "GMT+1 (Tunisia Gaming District)",
   💬 preferred_channels: ["LinkedIn 💜", "Email 🔵", "WhatsApp 🟢"],
   🤝 open_for: {
     freelance: true,
     full_time: true,
     partnerships: true,
     collaboration: true,
-    cyberpunk_quantum_projects: true
+    arcade_pixel_projects: true
   },
-  🎯 seeking: "Next-level Cyberpunk IoT & Mobile Neural challenges"
+  🎯 seeking: "Next-level Arcade IoT & Mobile Gaming challenges"
 };
 ```
 
@@ -348,35 +348,35 @@ const cyberConnectionMatrix = {
 
 ---
 
-## 💫 **CYBERPUNK SYSTEM SPECIFICATIONS**
+## 💫 **ARCADE SYSTEM SPECIFICATIONS**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
 
-### 🧠 **QUANTUM CORE COMPETENCY MATRIX**
+### 🧠 **PIXEL CORE COMPETENCY MATRIX**
 
-| 🎯 **Neural Module** | 📊 **Performance** | 🔥 **Activity Level** | 📈 **Evolution Trend** |
+| 🎯 **Gaming Module** | 📊 **Performance** | 🔥 **Activity Level** | 📈 **Evolution Trend** |
 |:---:|:---:|:---:|:---:|
-| 📱 Flutter Development | ████████████████████ 95% | 👾 QUANTUM BLAZING | ⬆️ CYBER ASCENDING |
-| 🤖 IoT Architecture | ████████████████░░░░ 88% | ⚡ NEURAL ELECTRIC | 📈 QUANTUM SURGING |
-| 🔥 Firebase Mastery | ██████████████████░░ 92% | 🚀 CYBER ROCKET | ⬆️ NEURAL CLIMBING |
-| ⚡ Embedded Systems | ████████████████░░░░ 82% | 💜 QUANTUM STRONG | 📈 CYBER RISING |
-| 🌐 Real-time Systems | ████████████████░░░░ 85% | ⚡ NEURAL DYNAMIC | 🔥 QUANTUM HEATING |
-| 🤖 Smart Automation | ████████████████░░░░ 87% | 🧠 CYBER INTELLIGENT | 🚀 NEURAL BOOSTING |
+| 📱 Flutter Development | ████████████████████ 95% | 🎮 PIXEL BLAZING | ⬆️ ARCADE ASCENDING |
+| 🤖 IoT Architecture | ████████████████░░░░ 88% | ⚡ 8-BIT ELECTRIC | 📈 PIXEL SURGING |
+| 🔥 Firebase Mastery | ██████████████████░░ 92% | 🚀 ARCADE ROCKET | ⬆️ RETRO CLIMBING |
+| ⚡ Embedded Systems | ████████████████░░░░ 82% | 💜 PIXEL STRONG | 📈 ARCADE RISING |
+| 🌐 Real-time Systems | ████████████████░░░░ 85% | ⚡ 8-BIT DYNAMIC | 🔥 PIXEL HEATING |
+| 🤖 Smart Automation | ████████████████░░░░ 87% | 🧠 ARCADE INTELLIGENT | 🚀 RETRO BOOSTING |
 
-### 🗣️ **CYBERPUNK COMMUNICATION PROTOCOLS**
+### 🗣️ **ARCADE COMMUNICATION PROTOCOLS**
 ```yaml
 🌍 language_matrix:
-  🇹🇳 arabic: ████████████████████ NATIVE CYBER
-  🇫🇷 french: ██████████████░░░░░░ FLUENT QUANTUM
-  🇬🇧 english: ████████████░░░░░░░░ ADVANCING NEURAL
+  🇹🇳 arabic: ████████████████████ NATIVE ARCADE
+  🇫🇷 french: ██████████████░░░░░░ FLUENT PIXEL
+  🇬🇧 english: ████████████░░░░░░░░ ADVANCING 8-BIT
 
-🧠 cyber_soft_skills:
-  leadership: ████████████████░░░░ 80% 👾
+🧠 arcade_soft_skills:
+  leadership: ████████████████░░░░ 80% 🎮
   communication: ██████████████████░░ 90% 💜
   problem_solving: ████████████████████ 95% ⚡
   creativity: ██████████████████░░ 90% 🔵
-  adaptability: ████████████████████ 95% 🌈
+  adaptability: ████████████████████ 95% 🌟
   teamwork: ████████████████░░░░ 85% 🟢
 ```
 
@@ -384,91 +384,91 @@ const cyberConnectionMatrix = {
 
 ---
 
-## 📈 **CYBERPUNK NEURAL ACTIVITY MONITOR**
+## 📈 **ARCADE GAMING ACTIVITY MONITOR**
 
 <div align="center">
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════════════════════╗
-║  🧠 CYBER BRAIN SCAN | 🔄 QUANTUM REAL-TIME | STATUS: 👾 NEURAL OVERLOAD    ║
+║  🧠 ARCADE BRAIN SCAN | 🔄 PIXEL REAL-TIME | STATUS: 🎮 GAMING OVERLOAD     ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-### ⚡ **RECENT QUANTUM NEURAL SPIKES**
+### ⚡ **RECENT PIXEL GAMING SPIKES**
 ```yaml
-🔥 latest_cyberpunk_neural_activities:
+🔥 latest_arcade_gaming_activities:
   - timestamp: "1 hour ago"
-    activity: "🚀 Deployed revolutionary Cyberpunk IoT quantum fusion"
-    intensity: "MAXIMUM QUANTUM OVERDRIVE"
-    cyber_level: "👾 NEURAL BLAZING"
+    activity: "🚀 Deployed revolutionary Arcade IoT pixel fusion"
+    intensity: "MAXIMUM PIXEL OVERDRIVE"
+    arcade_level: "🎮 8-BIT BLAZING"
     
   - timestamp: "3 hours ago" 
-    activity: "📱 Released Flutter app v4.0 with Neural AI features"
-    intensity: "HIGH QUANTUM"
-    cyber_score: "💜 LEGENDARY"
+    activity: "📱 Released Flutter app v4.0 with Retro AI features"
+    intensity: "HIGH PIXEL"
+    arcade_score: "💜 LEGENDARY"
     
   - timestamp: "6 hours ago"
-    activity: "🤖 Enhanced robot-human Cyberpunk communication matrix"
-    intensity: "INTENSE NEURAL"
-    glow_factor: "⚡ QUANTUM ELECTRIC"
+    activity: "🤖 Enhanced robot-human Arcade communication matrix"
+    intensity: "INTENSE 8-BIT"
+    glow_factor: "⚡ PIXEL ELECTRIC"
     
   - timestamp: "1 day ago"
-    activity: "🔧 Firebase real-time Cyberpunk optimization breakthrough"
-    intensity: "ELEVATED QUANTUM"
-    cyber_rating: "🔥 NEURAL BLAZING"
+    activity: "🔧 Firebase real-time Arcade optimization breakthrough"
+    intensity: "ELEVATED PIXEL"
+    arcade_rating: "🔥 RETRO BLAZING"
     
   - timestamp: "2 days ago"
-    activity: "⚡ TCP/IP socket performance 500% Cyberpunk improvement"
-    intensity: "LEGENDARY NEURAL"
-    quantum_status: "🌈 ULTIMATE CYBER"
+    activity: "⚡ TCP/IP socket performance 500% Arcade improvement"
+    intensity: "LEGENDARY 8-BIT"
+    pixel_status: "🌟 ULTIMATE ARCADE"
 ```
 
 </div>
 
 ---
 
-## 🌟 **CYBERPUNK PROFILE STATISTICS & ACHIEVEMENTS**
+## 🌟 **ARCADE PROFILE STATISTICS & ACHIEVEMENTS**
 
 <div align="center">
 
 ```ascii
 ╔════════════════════════════════════════════════════════════════════════════════╗
-║  🎮 PLAYER STATUS: 👾 QUANTUM ONLINE & OVERCLOCKING                          ║
-║  📍 CURRENT LOCATION: 🇹🇳 Monastir, Tunisia (Cyberpunk Innovation District)  ║
-║  🎯 MAIN QUEST: Revolutionizing Cyberpunk IoT & Mobile Neural Ecosystems     ║
-║  ⚡ POWER LEVEL: LEGENDARY QUANTUM (Senior Cyberpunk Innovation Architect)   ║
-║  🚀 ACTIVE MISSION: AI-Powered Smart Cyberpunk Automation Universe           ║
-║  💫 SPECIAL ABILITY: Hardware-Software Quantum Reality Bridge                ║
+║  🎮 PLAYER STATUS: 🎪 PIXEL ONLINE & BOOSTING                                ║
+║  📍 CURRENT LOCATION: 🇹🇳 Monastir, Tunisia (Arcade Innovation District)     ║
+║  🎯 MAIN QUEST: Revolutionizing Arcade IoT & Mobile Gaming Ecosystems        ║
+║  ⚡ POWER LEVEL: LEGENDARY PIXEL (Senior Arcade Innovation Architect)        ║
+║  🚀 ACTIVE MISSION: AI-Powered Smart Arcade Automation Universe              ║
+║  💫 SPECIAL ABILITY: Hardware-Software Pixel Reality Bridge                  ║
 ╚════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=mabroukaymen1&label=Quantum%20Profile%20Views&color=FF0080&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/mabroukaymen1?label=Cyber%20Followers&style=for-the-badge&color=00FF41)
-![Stars](https://img.shields.io/github/stars/mabroukaymen1?label=Quantum%20Stars&style=for-the-badge&color=FF6B35)
-![Status](https://img.shields.io/badge/Status-👾%20Available%20for%20Cyberpunk%20Projects-FF0080?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=mabroukaymen1&label=Pixel%20Profile%20Views&color=FFD700&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/mabroukaymen1?label=Arcade%20Followers&style=for-the-badge&color=FF6B35)
+![Stars](https://img.shields.io/github/stars/mabroukaymen1?label=Pixel%20Stars&style=for-the-badge&color=00FFFF)
+![Status](https://img.shields.io/badge/Status-🎮%20Available%20for%20Arcade%20Projects-FFD700?style=for-the-badge)
 
-### 💫 **CYBERPUNK INSPIRATION PROTOCOL**
-> *"The future is not code we write. The future is reality we hack with quantum neural dreams."*
+### 💫 **ARCADE INSPIRATION PROTOCOL**
+> *"The future is not code we write. The future is reality we game with pixel dreams."*
 > 
-> **- Architecting Tomorrow's Connected Cyberpunk Reality, One Quantum Innovation at a Time 👾**
+> **- Architecting Tomorrow's Connected Arcade Reality, One Pixel Innovation at a Time 🎮**
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════════════════════════╗
-║  🎮 INTERACTIVE CYBERPUNK DEVELOPER EXPERIENCE MENU                             ║
+║  🎮 INTERACTIVE ARCADE DEVELOPER EXPERIENCE MENU                                ║
 ║                                                                                  ║
-║  🎯 SELECT YOUR QUANTUM ADVENTURE:                                               ║
-║  👾 [EXPLORE CYBER PROJECTS] → Dive into Cyberpunk innovation repositories      ║
-║  ⭐ [INITIATE QUANTUM CONNECTION] → Let's hack the cyber future together         ║
-║  🚀 [COLLABORATION MODE] → Join forces for Cyberpunk breakthrough innovation    ║
-║  💡 [IDEA FUSION] → Share visions and create revolutionary quantum tech         ║
-║  🌈 [CYBERPUNK INNOVATION LAB] → Access cutting-edge experimental cyber projects║
+║  🎯 SELECT YOUR PIXEL ADVENTURE:                                                 ║
+║  🎪 [EXPLORE ARCADE PROJECTS] → Dive into Retro innovation repositories         ║
+║  ⭐ [INITIATE PIXEL CONNECTION] → Let's game the future together                 ║
+║  🚀 [COLLABORATION MODE] → Join forces for Arcade breakthrough innovation       ║
+║  💡 [IDEA FUSION] → Share visions and create revolutionary pixel tech           ║
+║  🌟 [ARCADE INNOVATION LAB] → Access cutting-edge experimental gaming projects  ║
 ║                                                                                  ║
-║  ⚡ SYSTEM STATUS: 👾 QUANTUM ONLINE | 🔥 CREATIVITY: CYBER MAX | 🚀 READY HACK║
+║  ⚡ SYSTEM STATUS: 🎮 PIXEL ONLINE | 🔥 CREATIVITY: ARCADE MAX | 🚀 READY PLAY ║
 ╚══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-### 🎊 **Welcome to the Cyberpunk Quantum Innovation Matrix!**
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> **You're quantum explorer number:** ![Visitor Count](https://profile-counter.glitch.me/mabroukaymen1/count.svg) <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+### 🎊 **Welcome to the Arcade Pixel Innovation Matrix!**
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> **You're pixel explorer number:** ![Visitor Count](https://profile-counter.glitch.me/mabroukaymen1/count.svg) <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
 </div>
 
@@ -477,12 +477,12 @@ const cyberConnectionMatrix = {
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
   
-  ### 👾 *Welcome to the Cyberpunk Quantum Digital Innovation Matrix!* 👾
-  **Where Hardware Dreams Meet Quantum Software Reality** ✨
+  ### 🎮 *Welcome to the Arcade Pixel Digital Innovation Matrix!* 🎮
+  **Where Hardware Dreams Meet Retro Gaming Reality** ✨
   
   ```ascii
   ╔════════════════════════════════════════════════════════════════════════════════╗
-  ║  🚀 CYBERPUNK TRANSMISSION COMPLETE | 📡 QUANTUM SIGNAL | 🌈 NEURAL ACTIVATED║
+  ║  🚀 ARCADE TRANSMISSION COMPLETE | 📡 PIXEL SIGNAL | 🌟 8-BIT ACTIVATED      ║
   ╚════════════════════════════════════════════════════════════════════════════════╝
   ```
 </div>
